@@ -1,0 +1,151 @@
+.top-container {
+  background-color: #d6e6f2;
+  height: 640px;
+  width: 1350px;
+}
+
+.middle-container {
+  padding-top: 70px;
+  background-color: #b9d7ea;
+  padding-bottom: 70px;
+}
+
+.bottom-container {
+  padding-top: 40px;
+  background-color: #769fcd;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 4.625rem;
+  margin-top: 0;
+  position: relative;
+  top: 85px;
+  font-family: 'Great Vibes', cursive;
+  color: #66BFBF;
+  line-height: 2
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+  color: #11999E;
+}
+
+a {
+  color: #b9d7ea;
+  position: relative;
+  padding-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+p {
+  color: #40514E;
+}
+
+.a-student {
+  position: relative;
+  top: 40px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 280px;
+  left: 300px;
+}
+
+.mountain {
+  position: relative;
+  top: 5px;
+}
+
+.sports-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pubg-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.socialskills-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.camera-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+hr {
+  border: 0;
+  border-top: 7px;
+  border-style: dotted;
+  color: grey;
+  margin: 100px auto 100px auto;
+  width: 60px;
+  text-align: center;
+}
+.copyright {
+  color: #b9d7ea;
+}
+.myButton {
+ background-color: #66BFBF;
+ border-radius:10px;
+ border:0 solid #2470b3;
+ display:inline-block;
+ cursor:pointer;
+ color: #b9d7ea;
+ font-family: 'Poppins', sans-serif;
+ font-size:20px;
+ padding:16px 31px;
+ text-decoration:none;
+
+}
+.myButton:hover {
+ background-color: #769fcd;
+}
+.myButton:active {
+ position:relative;
+ top:1px;
+}
+ .myButton {
+   margin-top: 30px;
+ }
